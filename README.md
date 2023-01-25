@@ -1,3 +1,7 @@
+<h1 align="center">Task Tracker using React</h1>
+
+![image](https://user-images.githubusercontent.com/102523492/214609246-b0ef4775-5ed9-4b9b-b1c0-9e76f5bc5c6c.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
